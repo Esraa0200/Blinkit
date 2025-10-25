@@ -11,12 +11,12 @@ It helps in understanding sales distribution, product performance, outlet effici
 - Average Rating: 3.9
 
 📈 Dashboard Features
-Interactive Filters:
+-Interactive Filters:
 -Outlet Location Type
 -Outlet Size
 -Item Type
 
-Visuals Included:
+-Visuals Included:
 -Total & Average Sales by Outlet Type
 -Item Type Contribution
 -Sales by Fat Content
