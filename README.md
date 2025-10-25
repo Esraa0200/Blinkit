@@ -21,7 +21,7 @@ Visuals Included:
 -Item Type Contribution
 -Sales by Fat Content
 -Outlet Establishment Trend (2010–2022)
--Sales by Outlet Location and Size
+-Sales by Outlet Location and Size.
 
 🧮 Tools & Technologies
 Power BI – for data visualization and interactive dashboards
